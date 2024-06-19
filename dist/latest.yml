@@ -1,8 +1,8 @@
-version: 1.0.0
+version: 1.0.1
 files:
-  - url: RarepInstaller Setup 1.0.0.exe
-    sha512: qPtYf6u3I6Y289OqHXa7d/e3RXf9hkm2Yh/UwDtUQod1pgkknddQTJUn3eJA8WQ4zAwlXdQzYu+VBVL4iCAyGg==
-    size: 73325019
-path: RarepInstaller Setup 1.0.0.exe
-sha512: qPtYf6u3I6Y289OqHXa7d/e3RXf9hkm2Yh/UwDtUQod1pgkknddQTJUn3eJA8WQ4zAwlXdQzYu+VBVL4iCAyGg==
-releaseDate: '2024-06-19T08:06:31.456Z'
+  - url: RarepInstaller Setup 1.0.1.exe
+    sha512: /UazzuPGlo5KmWs+bBZGI3qTnmC1+9Y+6raRaKYvxmE9vnWcHRUqmxoHdj01w2O4XsoKYNw2UTO5NmajAwQFqA==
+    size: 73324997
+path: RarepInstaller Setup 1.0.1.exe
+sha512: /UazzuPGlo5KmWs+bBZGI3qTnmC1+9Y+6raRaKYvxmE9vnWcHRUqmxoHdj01w2O4XsoKYNw2UTO5NmajAwQFqA==
+releaseDate: '2024-06-19T08:14:00.243Z'
